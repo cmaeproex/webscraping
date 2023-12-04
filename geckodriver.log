@@ -15407,3 +15407,1769 @@ JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line
 JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3132: TypeError: jQuery(...).tablesorter is not a function
 1701701678090	Marionette	INFO	Stopped listening on port 61224
 Dynamically enable window occlusion 1
+1701708967614	geckodriver	INFO	Listening on 127.0.0.1:62370
+1701708970665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofilepPOSzt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701708971165	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701708971255	Marionette	INFO	Listening on port 62378
+WebDriver BiDi listening on ws://127.0.0.1:62371
+Read port: 62378
+1701708971747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701708986334	geckodriver	INFO	Listening on 127.0.0.1:62384
+1701708989377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofileL41eTY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701708989623	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701708989722	Marionette	INFO	Listening on port 62392
+WebDriver BiDi listening on ws://127.0.0.1:62385
+Read port: 62392
+1701708989885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62385/devtools/browser/7d5c4a7e-4a09-43d1-9980-e0b2f55e9ec1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+1701709020382	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701709023485	Marionette	INFO	Stopped listening on port 62392
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+ings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701709014806	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701709014915	Marionette	INFO	Listening on port 62442
+WebDriver BiDi listening on ws://127.0.0.1:62435
+Read port: 62442
+1701709015124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62435/devtools/browser/1f5b32cc-99c7-4c1d-9e54-02166569890a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+1701709022673	Marionette	INFO	Stopped listening on port 62442
+Dynamically enable window occlusion 1
+1701709038575	geckodriver	INFO	Listening on 127.0.0.1:62492
+1701709041615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofileIOZLLD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701709042051	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701709042137	Marionette	INFO	Listening on port 62501
+WebDriver BiDi listening on ws://127.0.0.1:62493
+Read port: 62501
+1701709042319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62493/devtools/browser/1701709046749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AJavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+1701709072122	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQ1701709077922	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1, line 353: Script terminated by timeout at:
+mq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1:353:28
+lG/<@https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1:517:142
+aa.Jk/<@https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1:468:126
+aa.Jk/c/<@https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1:467:420
+
+1701710840925	Marionette	INFO	Stopped listening on port 62542
+Dynamically enable window occlusion 1
+ript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3769: TypeError: jQuery(...).tablesorter is not a function
+1701709208394	Marionette	INFO	Stopped listening on port 62501
+Dynamically enable window occlusion 1
+C:\Users\adrie\.wdm\drivers\geckodriver\win64\0.33\geckodriver.exe: error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (os error 10048)
+geckodriver 0.33.0 (a80e5fd61076 2023-04-02 18:31 +0000) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [OPTIONS]
+
+OPTIONS:
+        --allow-hosts <ALLOW_HOSTS>...
+            List of hostnames to allow. By default the value of --host is allowed, and in addition
+            if that's a well known local address, other variations on well known local addresses are
+            allowed. If --allow-hosts is provided only exactly those hosts are allowed.
+
+        --allow-origins <ALLOW_ORIGINS>...
+            List of request origins to allow. These must be formatted as scheme://host:port. By
+            default any request with an origin header is rejected. If --allow-origins is provided
+            then only exactly those origins are allowed.
+
+        --android-storage <ANDROID_STORAGE>
+            Selects storage location to be used for test data (deprecated). [possible values: auto,
+            app, internal, sdcard]
+
+    -b, --binary <BINARY>
+            Path to the Firefox binary
+
+        --connect-existing
+            Connect to an existing Firefox instance
+
+    -h, --help
+            Prints this message
+
+        --host <HOST>
+            Host IP to use for WebDriver server [default: 127.0.0.1]
+
+        --jsdebugger
+            Attach browser toolbox debugger for Firefox
+
+        --log <LEVEL>
+            Set Gecko log level [possible values: fatal, error, warn, info, config, debug, trace]
+
+        --log-no-truncate
+            Disable truncation of long log lines
+
+        --marionette-host <HOST>
+            Host to use to connect to Gecko [default: 127.0.0.1]
+
+        --marionette-port <PORT>
+            Port to use to connect to Gecko [default: system-allocated port]
+
+    -p, --port <PORT>
+            Port to use for WebDriver server [default: 4444]
+
+        --profile-root <PROFILE_ROOT>
+            Directory in which to create profiles. Defaults to the system temporary directory.
+
+    -v
+            Log level verbosity (-v for debug and -vv for trace level)
+
+    -V, --version
+            Prints version and copying information
+
+        --websocket-port <PORT>
+            Port to use to connect to WebDriver BiDi [default: 9222]
+
+1701709213430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofilei6VaX3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701709214277	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701709214438	Marionette	INFO	Listening on port 63190
+WebDriver BiDi listening on ws://127.0.0.1:62493
+Read port: 63190
+1701709215312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62493/devtools/browser/7c0dafae-4a73-49da-87f7-4a193186d2be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+1701709244458	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5947: TypeError: jQuery(...).tablesorter is not a function
+1701709523192	Marionette	INFO	Stopped listening on port 63190
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1, line 112: Script terminated by timeout at:
+ta@https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1:112:268
+@https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1:122:1110
+@https://www.googletagmanager.com/gtag/js?id=G-QJYPRDWRX4&cx=c&_slc=1:577:3
+
+Dynamically enable window occlusion 1
+C:\Users\adrie\.wdm\drivers\geckodriver\win64\0.33\geckodriver.exe: error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (os error 10048)
+geckodriver 0.33.0 (a80e5fd61076 2023-04-02 18:31 +0000) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [OPTIONS]
+
+OPTIONS:
+        --allow-hosts <ALLOW_HOSTS>...
+            List of hostnames to allow. By default the value of --host is allowed, and in addition
+            if that's a well known local address, other variations on well known local addresses are
+            allowed. If --allow-hosts is provided only exactly those hosts are allowed.
+
+        --allow-origins <ALLOW_ORIGINS>...
+            List of request origins to allow. These must be formatted as scheme://host:port. By
+            default any request with an origin header is rejected. If --allow-origins is provided
+            then only exactly those origins are allowed.
+
+        --android-storage <ANDROID_STORAGE>
+            Selects storage location to be used for test data (deprecated). [possible values: auto,
+            app, internal, sdcard]
+
+    -b, --binary <BINARY>
+            Path to the Firefox binary
+
+        --connect-existing
+            Connect to an existing Firefox instance
+
+    -h, --help
+            Prints this message
+
+        --host <HOST>
+            Host IP to use for WebDriver server [default: 127.0.0.1]
+
+        --jsdebugger
+            Attach browser toolbox debugger for Firefox
+
+        --log <LEVEL>
+            Set Gecko log level [possible values: fatal, error, warn, info, config, debug, trace]
+
+        --log-no-truncate
+            Disable truncation of long log lines
+
+        --marionette-host <HOST>
+            Host to use to connect to Gecko [default: 127.0.0.1]
+
+        --marionette-port <PORT>
+            Port to use to connect to Gecko [default: system-allocated port]
+
+    -p, --port <PORT>
+            Port to use for WebDriver server [default: 4444]
+
+        --profile-root <PROFILE_ROOT>
+            Directory in which to create profiles. Defaults to the system temporary directory.
+
+    -v
+            Log level verbosity (-v for debug and -vv for trace level)
+
+    -V, --version
+            Prints version and copying information
+
+        --websocket-port <PORT>
+            Port to use to connect to WebDriver BiDi [default: 9222]
+
+1701709527158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofileMNlE6p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701709527529	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701709527628	Marionette	INFO	Listening on port 64197
+WebDriver BiDi listening on ws://127.0.0.1:62493
+Read port: 64197
+1701709527861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62493/devtools/browser/0e6b9479-e807-4c4f-b1a6-b99aaa610921
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+1701709558222	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3188: TypeError: jQuery(...).tablesorter is not a function
+1701709650807	Marionette	INFO	Stopped listening on port 64197
+Dynamically enable window occlusion 1
+C:\Users\adrie\.wdm\drivers\geckodriver\win64\0.33\geckodriver.exe: error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (os error 10048)
+geckodriver 0.33.0 (a80e5fd61076 2023-04-02 18:31 +0000) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [OPTIONS]
+
+OPTIONS:
+        --allow-hosts <ALLOW_HOSTS>...
+            List of hostnames to allow. By default the value of --host is allowed, and in addition
+            if that's a well known local address, other variations on well known local addresses are
+            allowed. If --allow-hosts is provided only exactly those hosts are allowed.
+
+        --allow-origins <ALLOW_ORIGINS>...
+            List of request origins to allow. These must be formatted as scheme://host:port. By
+            default any request with an origin header is rejected. If --allow-origins is provided
+            then only exactly those origins are allowed.
+
+        --android-storage <ANDROID_STORAGE>
+            Selects storage location to be used for test data (deprecated). [possible values: auto,
+            app, internal, sdcard]
+
+    -b, --binary <BINARY>
+            Path to the Firefox binary
+
+        --connect-existing
+            Connect to an existing Firefox instance
+
+    -h, --help
+            Prints this message
+
+        --host <HOST>
+            Host IP to use for WebDriver server [default: 127.0.0.1]
+
+        --jsdebugger
+            Attach browser toolbox debugger for Firefox
+
+        --log <LEVEL>
+            Set Gecko log level [possible values: fatal, error, warn, info, config, debug, trace]
+
+        --log-no-truncate
+            Disable truncation of long log lines
+
+        --marionette-host <HOST>
+            Host to use to connect to Gecko [default: 127.0.0.1]
+
+        --marionette-port <PORT>
+            Port to use to connect to Gecko [default: system-allocated port]
+
+    -p, --port <PORT>
+            Port to use for WebDriver server [default: 4444]
+
+        --profile-root <PROFILE_ROOT>
+            Directory in which to create profiles. Defaults to the system temporary directory.
+
+    -v
+            Log level verbosity (-v for debug and -vv for trace level)
+
+    -V, --version
+            Prints version and copying information
+
+        --websocket-port <PORT>
+            Port to use to connect to WebDriver BiDi [default: 9222]
+
+1701709654500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofiledlXPlm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701709654789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701709654898	Marionette	INFO	Listening on port 64351
+WebDriver BiDi listening on ws://127.0.0.1:62493
+Read port: 64351
+1701709655108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62493/devtools/browser/e60fa3fe-534e-423a-a2b0-12bbf265bd65
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+1701709684904	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10262: TypeError: jQuery(...).tablesorter is not a function
+1701710187228	Marionette	INFO	Stopped listening on port 64351
+Dynamically enable window occlusion 1
+C:\Users\adrie\.wdm\drivers\geckodriver\win64\0.33\geckodriver.exe: error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (os error 10048)
+geckodriver 0.33.0 (a80e5fd61076 2023-04-02 18:31 +0000) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [OPTIONS]
+
+OPTIONS:
+        --allow-hosts <ALLOW_HOSTS>...
+            List of hostnames to allow. By default the value of --host is allowed, and in addition
+            if that's a well known local address, other variations on well known local addresses are
+            allowed. If --allow-hosts is provided only exactly those hosts are allowed.
+
+        --allow-origins <ALLOW_ORIGINS>...
+            List of request origins to allow. These must be formatted as scheme://host:port. By
+            default any request with an origin header is rejected. If --allow-origins is provided
+            then only exactly those origins are allowed.
+
+        --android-storage <ANDROID_STORAGE>
+            Selects storage location to be used for test data (deprecated). [possible values: auto,
+            app, internal, sdcard]
+
+    -b, --binary <BINARY>
+            Path to the Firefox binary
+
+        --connect-existing
+            Connect to an existing Firefox instance
+
+    -h, --help
+            Prints this message
+
+        --host <HOST>
+            Host IP to use for WebDriver server [default: 127.0.0.1]
+
+        --jsdebugger
+            Attach browser toolbox debugger for Firefox
+
+        --log <LEVEL>
+            Set Gecko log level [possible values: fatal, error, warn, info, config, debug, trace]
+
+        --log-no-truncate
+            Disable truncation of long log lines
+
+        --marionette-host <HOST>
+            Host to use to connect to Gecko [default: 127.0.0.1]
+
+        --marionette-port <PORT>
+            Port to use to connect to Gecko [default: system-allocated port]
+
+    -p, --port <PORT>
+            Port to use for WebDriver server [default: 4444]
+
+        --profile-root <PROFILE_ROOT>
+            Directory in which to create profiles. Defaults to the system temporary directory.
+
+    -v
+            Log level verbosity (-v for debug and -vv for trace level)
+
+    -V, --version
+            Prints version and copying information
+
+        --websocket-port <PORT>
+            Port to use to connect to WebDriver BiDi [default: 9222]
+
+1701710191218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofile7eQ2oC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701710191451	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701710191545	Marionette	INFO	Listening on port 64729
+WebDriver BiDi listening on ws://127.0.0.1:62493
+Read port: 64729
+1701710191766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62493/devtools/browser/a8d468ac-79ec-4d33-90a3-c2de9100dc8d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+1701710221488	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 5435: TypeError: jQuery(...).tablesorter is not a function
+1701710463414	Marionette	INFO	Stopped listening on port 64729
+Dynamically enable window occlusion 1
+C:\Users\adrie\.wdm\drivers\geckodriver\win64\0.33\geckodriver.exe: error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (os error 10048)
+geckodriver 0.33.0 (a80e5fd61076 2023-04-02 18:31 +0000) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [OPTIONS]
+
+OPTIONS:
+        --allow-hosts <ALLOW_HOSTS>...
+            List of hostnames to allow. By default the value of --host is allowed, and in addition
+            if that's a well known local address, other variations on well known local addresses are
+            allowed. If --allow-hosts is provided only exactly those hosts are allowed.
+
+        --allow-origins <ALLOW_ORIGINS>...
+            List of request origins to allow. These must be formatted as scheme://host:port. By
+            default any request with an origin header is rejected. If --allow-origins is provided
+            then only exactly those origins are allowed.
+
+        --android-storage <ANDROID_STORAGE>
+            Selects storage location to be used for test data (deprecated). [possible values: auto,
+            app, internal, sdcard]
+
+    -b, --binary <BINARY>
+            Path to the Firefox binary
+
+        --connect-existing
+            Connect to an existing Firefox instance
+
+    -h, --help
+            Prints this message
+
+        --host <HOST>
+            Host IP to use for WebDriver server [default: 127.0.0.1]
+
+        --jsdebugger
+            Attach browser toolbox debugger for Firefox
+
+        --log <LEVEL>
+            Set Gecko log level [possible values: fatal, error, warn, info, config, debug, trace]
+
+        --log-no-truncate
+            Disable truncation of long log lines
+
+        --marionette-host <HOST>
+            Host to use to connect to Gecko [default: 127.0.0.1]
+
+        --marionette-port <PORT>
+            Port to use to connect to Gecko [default: system-allocated port]
+
+    -p, --port <PORT>
+            Port to use for WebDriver server [default: 4444]
+
+        --profile-root <PROFILE_ROOT>
+            Directory in which to create profiles. Defaults to the system temporary directory.
+
+    -v
+            Log level verbosity (-v for debug and -vv for trace level)
+
+    -V, --version
+            Prints version and copying information
+
+        --websocket-port <PORT>
+            Port to use to connect to WebDriver BiDi [default: 9222]
+
+1701710467297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofileWhryf9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701710467698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701710467780	Marionette	INFO	Listening on port 64981
+WebDriver BiDi listening on ws://127.0.0.1:62493
+Read port: 64981
+1701710468005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62493/devtools/browser/b03ee097-7d7f-4b87-b122-d46afa7aadb8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+1701710497744	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 10754: TypeError: jQuery(...).tablesorter is not a function
+1701711118698	Marionette	INFO	Stopped listening on port 64981
+Dynamically enable window occlusion 1
+C:\Users\adrie\.wdm\drivers\geckodriver\win64\0.33\geckodriver.exe: error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (os error 10048)
+geckodriver 0.33.0 (a80e5fd61076 2023-04-02 18:31 +0000) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [OPTIONS]
+
+OPTIONS:
+        --allow-hosts <ALLOW_HOSTS>...
+            List of hostnames to allow. By default the value of --host is allowed, and in addition
+            if that's a well known local address, other variations on well known local addresses are
+            allowed. If --allow-hosts is provided only exactly those hosts are allowed.
+
+        --allow-origins <ALLOW_ORIGINS>...
+            List of request origins to allow. These must be formatted as scheme://host:port. By
+            default any request with an origin header is rejected. If --allow-origins is provided
+            then only exactly those origins are allowed.
+
+        --android-storage <ANDROID_STORAGE>
+            Selects storage location to be used for test data (deprecated). [possible values: auto,
+            app, internal, sdcard]
+
+    -b, --binary <BINARY>
+            Path to the Firefox binary
+
+        --connect-existing
+            Connect to an existing Firefox instance
+
+    -h, --help
+            Prints this message
+
+        --host <HOST>
+            Host IP to use for WebDriver server [default: 127.0.0.1]
+
+        --jsdebugger
+            Attach browser toolbox debugger for Firefox
+
+        --log <LEVEL>
+            Set Gecko log level [possible values: fatal, error, warn, info, config, debug, trace]
+
+        --log-no-truncate
+            Disable truncation of long log lines
+
+        --marionette-host <HOST>
+            Host to use to connect to Gecko [default: 127.0.0.1]
+
+        --marionette-port <PORT>
+            Port to use to connect to Gecko [default: system-allocated port]
+
+    -p, --port <PORT>
+            Port to use for WebDriver server [default: 4444]
+
+        --profile-root <PROFILE_ROOT>
+            Directory in which to create profiles. Defaults to the system temporary directory.
+
+    -v
+            Log level verbosity (-v for debug and -vv for trace level)
+
+    -V, --version
+            Prints version and copying information
+
+        --websocket-port <PORT>
+            Port to use to connect to WebDriver BiDi [default: 9222]
+
+1701711123038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofile5Nxmoc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701711123302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701711123380	Marionette	INFO	Listening on port 65485
+WebDriver BiDi listening on ws://127.0.0.1:62493
+Read port: 65485
+1701711123583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62493/devtools/browser/8102efc8-5bc4-4c30-aca3-22251318244b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+1701711153452	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 6070: TypeError: jQuery(...).tablesorter is not a function
+1701711385617	Marionette	INFO	Stopped listening on port 65485
+Dynamically enable window occlusion 1
+C:\Users\adrie\.wdm\drivers\geckodriver\win64\0.33\geckodriver.exe: error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (os error 10048)
+geckodriver 0.33.0 (a80e5fd61076 2023-04-02 18:31 +0000) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [OPTIONS]
+
+OPTIONS:
+        --allow-hosts <ALLOW_HOSTS>...
+            List of hostnames to allow. By default the value of --host is allowed, and in addition
+            if that's a well known local address, other variations on well known local addresses are
+            allowed. If --allow-hosts is provided only exactly those hosts are allowed.
+
+        --allow-origins <ALLOW_ORIGINS>...
+            List of request origins to allow. These must be formatted as scheme://host:port. By
+            default any request with an origin header is rejected. If --allow-origins is provided
+            then only exactly those origins are allowed.
+
+        --android-storage <ANDROID_STORAGE>
+            Selects storage location to be used for test data (deprecated). [possible values: auto,
+            app, internal, sdcard]
+
+    -b, --binary <BINARY>
+            Path to the Firefox binary
+
+        --connect-existing
+            Connect to an existing Firefox instance
+
+    -h, --help
+            Prints this message
+
+        --host <HOST>
+            Host IP to use for WebDriver server [default: 127.0.0.1]
+
+        --jsdebugger
+            Attach browser toolbox debugger for Firefox
+
+        --log <LEVEL>
+            Set Gecko log level [possible values: fatal, error, warn, info, config, debug, trace]
+
+        --log-no-truncate
+            Disable truncation of long log lines
+
+        --marionette-host <HOST>
+            Host to use to connect to Gecko [default: 127.0.0.1]
+
+        --marionette-port <PORT>
+            Port to use to connect to Gecko [default: system-allocated port]
+
+    -p, --port <PORT>
+            Port to use for WebDriver server [default: 4444]
+
+        --profile-root <PROFILE_ROOT>
+            Directory in which to create profiles. Defaults to the system temporary directory.
+
+    -v
+            Log level verbosity (-v for debug and -vv for trace level)
+
+    -V, --version
+            Prints version and copying information
+
+        --websocket-port <PORT>
+            Port to use to connect to WebDriver BiDi [default: 9222]
+
+1701711389439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adrie\\AppData\\Local\\Temp\\rust_mozprofileaHZPou"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701711389690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701711389772	Marionette	INFO	Listening on port 49326
+WebDriver BiDi listening on ws://127.0.0.1:62493
+Read port: 49326
+1701711390010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62493/devtools/browser/84a9ba9c-2d73-40dd-9460-390449382b0d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sigaa.ufpb.br."
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript warning: https://sigaa.ufpb.br/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+1701711419712	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+JavaScript error: https://sigaa.ufpb.br/sigaa/extensao/Atividade/lista.jsf, line 3379: TypeError: jQuery(...).tablesorter is not a function
+1701711479496	Marionette	INFO	Stopped listening on port 49326
+JavaScript warning: https://sigaa.ufpb.br/sigaa/jsBundles/gzip_1958072420/bundles/js/shared_base.js, line 1007: Script terminated by timeout at:
+@https://sigaa.ufpb.br/sigaa/jsBundles/gzip_1958072420/bundles/js/shared_base.js:1007:1
+
+Dynamically enable window occlusion 1

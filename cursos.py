@@ -102,8 +102,8 @@ for yaer in anos:
         dividindo = np.array(planilha).reshape(int(len(planilha)/13), 13)
         dataframe = pd.DataFrame(data=dividindo, columns=colunas)
 
-        dfparcial = pd.read_csv('curso(2023).csv')
+        dfparcial = pd.read_csv('cursos(2023).csv')
         dffinal = pd.concat([dfparcial,dataframe], ignore_index=True) 
 
-        dffinal.to_csv('curso(2023).csv', index=False)
+        dffinal.to_csv('cursos(2023).csv', index=False)
         robo.close()

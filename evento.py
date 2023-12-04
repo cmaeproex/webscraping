@@ -16,10 +16,10 @@ for yaer in anos:
         robo.get("https://sigaa.ufpb.br/sigaa/logon.jsf")
         usuario = WebDriverWait(robo,10).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="form:login"]')))
         usuario.clear()
-        usuario.send_keys("adriell18a")
+        usuario.send_keys("")
         senha = WebDriverWait(robo,10).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="form:senha"]')))
         senha.clear()
-        senha.send_keys("Aap180402")
+        senha.send_keys("")
         WebDriverWait(robo,10).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="form:entrar"]'))).click()
 
         robo.find_element(By.XPATH, "//*[@id='main-menu']/li[3]/a").click()
